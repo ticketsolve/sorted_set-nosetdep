@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "sorted_set-nosetdep"
-  spec.version       = "1.0.3"
+  spec.version       = "1.0.666"
   spec.authors       = ["Saverio Miroddi"]
   spec.email         = ["saverio.pub2@gmail.com"]
 

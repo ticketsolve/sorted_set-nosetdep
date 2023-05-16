@@ -1,5 +1,11 @@
 # SortedSet Changelog
 
+## 1.0.666 (2023-05-16)
+
+* Breaking Changes
+  * Removed "set" explicit dependency; this prevents conflicts with modern Ruby versions, which ship such gem in the stdlib
+  * Bumped minimum Ruby version to 3.0
+
 ## 1.0.3 (2021-02-13)
 
 * Enhancements
